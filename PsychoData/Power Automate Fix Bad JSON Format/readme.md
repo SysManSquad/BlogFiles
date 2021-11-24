@@ -5,7 +5,7 @@ These files are the companion files to the Blog that will go on [SysManSquad](ht
 ## Importing the Examples data flow ##
 
 To install:
-  1. Download the [ParseSyncroUserAPIResponseExample.Zip](./ParseSyncroUserAPIResponseExample_20211124211328.zip)
+  1. Download the [ParseSyncroUserAPIResponseExample.Zip](./ParseSyncroUserAPIResponseExample.zip)
   2. Login at [https://flow.microsoft.com/manage/import](https://flow.microsoft.com/manage/import) 
      - Setup a Power Automate account if you need to
   3. Import the Zip
